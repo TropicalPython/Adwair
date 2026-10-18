@@ -1,6 +1,10 @@
-# Adwair
+<img src="./preview/logo.png" alt="Adwair" width="120" align="left" hspace="16">
+
+<h1>Adwair</h1>
 
 A refined icon theme blending the polished look of WhiteSur with the clean, native feel of Adwaita.
+
+<br clear="left">
 
 ![Adwair Preview](preview/preview.png)
 
