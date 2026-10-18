@@ -1,6 +1,12 @@
-# Adwair
-
-A refined icon theme blending the polished look of WhiteSur with the clean, native feel of Adwaita.
+<p align="center">
+  <img alt="Adwair logo" width="129" src="./preview/logo.png">
+</p>
+<h1 align="center">Adwair</h1>
+<h4 align="center">A refined icon theme blending the polished look of WhiteSur with the clean, native feel of Adwaita</h4>
+<p align="center">
+  <br />
+  <a href="https://github.com/kusaida/Adwair/blob/main/LICENSE"><img src="https://img.shields.io/badge/LICENSE-GPL--3.0-000000.svg?style=for-the-badge" alt="GPL-3.0" /></a>
+</p>
 
 ![Adwair Preview](preview/preview.png)
 
